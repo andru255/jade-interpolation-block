@@ -1,0 +1,24 @@
+{
+  "name": "jade-interpolation-block",
+  "version": "0.9.1",
+  "description": "jade interpolation in block",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "jade",
+    "plugins"
+  ],
+  "author": "andru255",
+  "license": "ISC",
+  "dependencies": {
+    "moduleinfo": "^1.0.1"
+  },
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "constantinople": "^3.0.2",
+    "diff": "^2.2.1",
+    "nodeunit": "^0.9.1"
+  }
+}
